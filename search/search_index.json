@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Welcome to zalsader's Docs!","text":"<p>Inspired by galexrt docs, this is a collection of tools and tips I find useful. Feel free to use any of them for any reason, at your own risk; no warranty is provided. Licensed under the MIT license.</p>"}]}
