@@ -3,6 +3,7 @@ site_url: 'https://docs.zalsader.com'
 repo_url: https://github.com/zalsader/docs.zalsader.com
 site_author: Zuhair AlSader
 site_description: This is a collection of tools and tips I find useful
+use_directory_urls: true
 theme:
   name: material
   palette:
@@ -19,4 +20,11 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.expand
+    - navigation.indexes
+plugins:
+  - search
 
