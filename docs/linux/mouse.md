@@ -4,7 +4,7 @@ title: "Logitech mouse"
 
 I have a logitech M720 mouse and a logitech K850 keyboard. There are no offical drivers for linux, so I am using [PixlOne/logiops](https://github.com/PixlOne/logiops). This is my config for the mouse:
 
-```cfg
+``` cfg title="/etc/logic.cfg"
 devices: (
 {
     name: "M720 Triathlon Multi-Device Mouse";
